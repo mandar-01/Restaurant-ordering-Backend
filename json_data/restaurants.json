@@ -1,0 +1,132 @@
+{
+    "restaurants":[
+        {
+            "name":"Sweetgreen",
+            "location":"Culver City",
+            "id":"1",
+            "menu":[
+                {
+                    "item": "Caprese Panini",
+                    "price": "11",
+                    "description": "Grilled panini with fresh tomatoes, mozzarella, and basil pesto."
+                },
+                {
+                    "item": "Vegetable Stir-Fry",
+                    "price": "14",
+                    "description": "Colorful stir-fried vegetables served with a savory soy-ginger sauce."
+                },
+                {
+                    "item": "Blueberry Pancakes",
+                    "price": "9",
+                    "description": "Fluffy pancakes filled with juicy blueberries and topped with maple syrup."
+                },
+                {
+                    "item": "Lemon Garlic Roast Chicken",
+                    "price": "17",
+                    "description": "Roast chicken seasoned with zesty lemon and garlic."
+                },
+                {
+                    "item": "Triple Chocolate Mousse Cake",
+                    "price": "12",
+                    "description": "Decadent layers of dark, milk, and white chocolate mousse on a chocolate crust."
+                }
+            ]
+        },
+        {
+            "name":"Sweetgreen",
+            "location":"Irvine",
+            "id":"2",
+            "menu":[
+                {
+                    "item": "Apple Pie",
+                    "price": "10",
+                    "description": "Classic apple pie with a flaky crust."
+                },
+                {
+                    "item": "Chicken Alfredo",
+                    "price": "15",
+                    "description": "Creamy Alfredo sauce with tender chicken over pasta."
+                },
+                {
+                    "item": "Margherita Pizza",
+                    "price": "12",
+                    "description": "Traditional pizza with fresh tomatoes, mozzarella, and basil."
+                },
+                {
+                    "item": "Chocolate Brownie Sundae",
+                    "price": "8",
+                    "description": "Decadent chocolate brownie topped with vanilla ice cream and hot fudge."
+                },
+                {
+                    "item": "Grilled Salmon",
+                    "price": "18",
+                    "description": "Grilled salmon fillet with lemon and herb seasoning."
+                }
+            ]
+        },
+        {
+            "name":"Taco Bell",
+            "location":"Culver City",
+            "id":"3",
+            "menu":[
+                {
+                    "item": "Vegetarian Pad Thai",
+                    "price": "13",
+                    "description": "Stir-fried rice noodles with tofu, bean sprouts, and peanuts."
+                },
+                {
+                    "item": "Mango Tango Smoothie",
+                    "price": "7",
+                    "description": "Refreshing smoothie with mango, banana, and orange juice."
+                },
+                {
+                    "item": "Caprese Salad",
+                    "price": "9",
+                    "description": "Fresh tomatoes, mozzarella, and basil drizzled with balsamic glaze."
+                },
+                {
+                    "item": "BBQ Pulled Pork Sandwich",
+                    "price": "14",
+                    "description": "Slow-cooked pulled pork smothered in barbecue sauce on a bun."
+                },
+                {
+                    "item": "Strawberry Cheesecake",
+                    "price": "12",
+                    "description": "Creamy cheesecake with a strawberry topping."
+                }
+            ]
+        },
+        {
+            "name":"In-n-Out",
+            "location":"Culver City",
+            "id":"4",
+            "menu":[
+                {
+                    "item": "Sushi Platter",
+                    "price": "20",
+                    "description": "Assorted sushi rolls with fresh fish and avocado."
+                },
+                {
+                    "item": "Mushroom Risotto",
+                    "price": "16",
+                    "description": "Creamy risotto with a medley of mushrooms and Parmesan cheese."
+                },
+                {
+                    "item": "Caramelized Onion Burger",
+                    "price": "15",
+                    "description": "Juicy beef patty topped with caramelized onions and Swiss cheese."
+                },
+                {
+                    "item": "Pesto Pasta with Shrimp",
+                    "price": "18",
+                    "description": "Pasta tossed in basil pesto sauce with succulent shrimp."
+                },
+                {
+                    "item": "Banana Split Sundae",
+                    "price": "10",
+                    "description": "Classic banana split with three scoops of ice cream, toppings, and whipped cream."
+                }
+            ]
+        }
+    ]
+}
