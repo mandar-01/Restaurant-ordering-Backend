@@ -65,8 +65,8 @@
             ]
         },
         {
-            "name":"Taco Bell",
-            "location":"Culver City",
+            "name":"Sweetgreen",
+            "location":"Fullerton",
             "id":"3",
             "menu":[
                 {
@@ -97,8 +97,8 @@
             ]
         },
         {
-            "name":"In-n-Out",
-            "location":"Culver City",
+            "name":"Sweetgreen",
+            "location":"Santa Monica",
             "id":"4",
             "menu":[
                 {
