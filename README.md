@@ -20,3 +20,7 @@ Install all the requirements from requirements.txt:
 
 Go to the root folder of this repository. Start the Flask server using:
 `flask --app .\api\index.py run`
+
+# Run using docker
+
+To run the backend server using Docker, build an image using the given Dockerfile. To build an image, go to the root directory where the Docker file is stored, and run `docker build -t sweetgreen_backend .` Once the image is built, run the image with `docker run -p 5000:5000 sweetgreen_backend` . Change the port number if your localhost 5000 is not free.
