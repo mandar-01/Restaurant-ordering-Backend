@@ -1,5 +1,5 @@
 # Overview
-This is the backend code for a restaurant ordering application. Checkout https://github.com/mandar-01/Sweetgreen-Frontend/tree/main for the frontend code. 
+This is the backend code for a restaurant ordering application. Checkout https://github.com/mandar-01/Restaurant-ordering-Frontend for the frontend code. 
 
 # Installation instructions
 This article assumes you have Python3 installed. If not, install Python 3, preferable Python 3.11.2
