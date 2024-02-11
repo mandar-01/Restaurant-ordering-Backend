@@ -1,5 +1,5 @@
 # Overview
-This is the backend code for a restaurant ordering application. Checkout https://github.com/mandar-01/Sweetgreen-Frontend/tree/main for the frontend code. 
+This is the backend code for a restaurant ordering application. Checkout https://github.com/mandar-01/Restaurant-ordering-Frontend for the frontend code. 
 
 # Installation instructions
 This article assumes you have Python3 installed. If not, install Python 3, preferable Python 3.11.2
@@ -23,4 +23,4 @@ Go to the root folder of this repository. Start the Flask server using:
 
 # Run using Docker
 
-To run the backend server using Docker, build an image using the given Dockerfile. To build an image, go to the root directory where the Docker file is stored, and run `docker build -t sweetgreen_backend .` Once the image is built, run the image with `docker run -p 5000:5000 sweetgreen_backend` . Change the port number if your localhost 5000 is not free.
+To run the backend server using Docker, build an image using the given Dockerfile. To build an image, go to the root directory where the Docker file is stored, and run `docker build -t backend .` Once the image is built, run the image with `docker run -p 5000:5000 backend` . Change the port number if your localhost 5000 is not free.
