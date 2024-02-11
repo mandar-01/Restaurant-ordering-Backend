@@ -1,7 +1,7 @@
 {
     "restaurants":[
         {
-            "name":"Sweetgreen",
+            "name":"My Kitchen",
             "location":"Culver City",
             "id":"1",
             "menu":[
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "name":"Sweetgreen",
+            "name":"My Kitchen",
             "location":"Irvine",
             "id":"2",
             "menu":[
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "name":"Sweetgreen",
+            "name":"My Kitchen",
             "location":"Fullerton",
             "id":"3",
             "menu":[
@@ -97,7 +97,7 @@
             ]
         },
         {
-            "name":"Sweetgreen",
+            "name":"My Kitchen",
             "location":"Santa Monica",
             "id":"4",
             "menu":[
